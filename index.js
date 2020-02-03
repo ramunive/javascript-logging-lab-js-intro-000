@@ -1,2 +1,3 @@
 console.error("HALP!");
-console.console.log("Update for you");
+console.log("Update for you");
+
